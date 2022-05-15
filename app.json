@@ -1,5 +1,5 @@
 {
-  "name": "Chitoge",
+  "name": "Rias Gremory",
   "description": "A WhatsApp Bot With Rich Anime Features. ",
   "keywords": [
     "bot",
@@ -11,9 +11,9 @@
     "whatsapp-sticker-bot",
     "whatsapp-botto"
   ],
-  "website": "https://github.com/ShinNouzen/Chitoge#readme",
-  "repository": "https://github.com/ShinNouzen/Chitoge.git",
-  "logo": "https://wallpapermemory.com/uploads/711/chitoge-kirisaki-wallpaper-full-hd-323316.jpg",
+  "website": "https://github.com/VaseemStarkJr3000/Rias-Gremory#readme",
+  "repository": "https://github.com/VaseemStarkJr3000/Rias-Gremory.git",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFglBpqhgdxp7Lm4xiFoLOJQDndO_ncEvQX-P3zmQSkNhqhyC_p47vlw-M5dGscBdq6jY&usqp=CAU",
   "success_url": "/",
   "env": {
     "PREFIX": {
