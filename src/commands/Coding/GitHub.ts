@@ -69,11 +69,11 @@ export default class Command extends BaseCommand {
                 .then((res) => res.data)
                 .catch((err) => {
                     console.log(err)
-                    return void M.reply('🟥 ERROR 🟥\n Failed to fetch the User')
+                    return void M.reply('🟥 ERROR 🟥\n Failed to fetch this dude')
                 })
 
             if (userInfo === undefined) {
-                return void M.reply('🟥 ERROR 🟥\n Failed to fetch the User')
+                return void M.reply('🟥 ERROR 🟥\n Failed to fetch this dude')
             }
 
             // prepare text information
