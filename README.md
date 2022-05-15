@@ -3,7 +3,7 @@
 
 <a href="https://github.com/well300"><img src="https://static.wikia.nocookie.net/highschooldxd/images/9/96/2722056tCU07SgL.gif/revision/latest?cb=20180524061039" alt="whatsapp-botto-void-init" border="0"></a>
 
-# **🌈 ʀɪᴀꜱ : ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛᴛᴏ**
+# **😈 ʀɪᴀꜱ : ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛᴛᴏ**
 
    A Fully Modular and Efficient Bot <br>
 
@@ -44,4 +44,4 @@
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LWe4ldZ4HjIKWJlRhT6qRJ)
