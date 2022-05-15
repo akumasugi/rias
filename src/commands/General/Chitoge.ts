@@ -9,7 +9,7 @@ import { ISimplifiedMessage } from "../../typings";
 export default class Command extends BaseCommand {
 	constructor(client: WAClient, handler: MessageHandler) {
 		super(client, handler, {
-			command: "chitoge",
+			command: "Rias Gremory",
 			description: "Displays the info",
 			category: "general",
 			usage: `${client.config.prefix}chitoge`,
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `🌟 *Chitoge* 🌟\n\n🍀 *Description: A WhatsApp Bot With Rich Anime Features.*\n\n🌐 *URL: https://github.com/ShineiIchijo/Chitoge* \n\n 📒 *Guide: https://github.com/ShineiIchijo/Chitoge-Guides* \n`,
+				caption: `🌟 *Rias Gremory* 🌟\n\n🍀 *Description: A WhatsApp Bot With Rich Anime Features.*\n\n🌐 *URL: https://github.com/VaseemStarkJr3000/Rias-Gremory* \n\n 📒 *Guide: https://github.com/ShineiIchijo/Chitoge-Guides* \n`,
 			}
 		);
 	};
