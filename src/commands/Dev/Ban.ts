@@ -36,7 +36,7 @@ export default class Command extends BaseCommand {
             // const username = info.notify || info.vname || info.name || user.split('@')[0]
             // const username = user.split('@')[0]
             if (data?.ban) {
-                text += `🟨 @${user.split('@')[0]}: Already Banned\n`
+                text += `🟨 @${user.split('@')[0]}: this Idiot is Already Banned\n`
                 continue
             }
             await this.client.blockUser(user);
