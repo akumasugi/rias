@@ -54,7 +54,7 @@ export default class Command extends BaseCommand {
 
 ╰• ᴡᴇʟʟ300
 
-🎗ᴄᴏɴᴛᴀᴄᴛ: wa.me/918367624665text=𝙝𝙚𝙡𝙡𝙤+300/>
+🎗ᴄᴏɴᴛᴀᴄᴛ: wa.me/918367624665?text=𝙝𝙚𝙡𝙡𝙤+300/>
 
 •━━━ ✽ • ✽ ━━━•`,
 
