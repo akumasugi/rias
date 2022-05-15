@@ -1,11 +1,10 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+<div align="left">
 
-<div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
+<a href="https://github.com/VaseemStarkJr3000"><img src="https://static.wikia.nocookie.net/highschooldxd/images/9/96/2722056tCU07SgL.gif/revision/latest?cb=20180524061039" alt="whatsapp-botto-void-init" border="0"></a>
 
 # **Rias Gremory : A WhatsApp BOT WITH RICH ANIME FEATURES**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/VaseemStarkJr3000/Rias-Gremory/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
+[![CodeFactor](https://www.codefactor.io/repository/github/VaseemStarkJr3000/Rias-Gremory/badge)](https://www.codefactor.io/repository/github/VaseemStarkJr3000/Rias-Gremory)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LWe4ldZ4HjIKWJlRhT6qRJ) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
