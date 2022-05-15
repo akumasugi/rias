@@ -1,3 +1,4 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 <div align="left">
 
 <a href="https://github.com/well300"><img src="https://static.wikia.nocookie.net/highschooldxd/images/9/96/2722056tCU07SgL.gif/revision/latest?cb=20180524061039" alt="whatsapp-botto-void-init" border="0"></a>
