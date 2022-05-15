@@ -40,7 +40,7 @@ export default class Command extends BaseCommand {
         contextInfo: {
           externalAdReply: {
             title: `Search Term: ${term}`,
-            body: `🌟 Chitoge 🌟`,
+            body: `🌟 Rias Gremory 🌟`,
             mediaType: 2,
             thumbnail: await this.client.getBuffer(videos[0].thumbnail),
             mediaUrl: videos[0].url,
