@@ -41,21 +41,6 @@
 
     here➡️[Chitoge_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
 
-## 💪 Contribution
-
--   Feel free to open issues regarding any problems or if you have any feature requests
-
--   Make sure to follow the ESLint Rules while editing the code and run
-
-    `yarn run prettier-format` before opening PRs
-
- Amazing Contributors
-
-<a href="https://github.com/ShineiIchijo/Chitoge/graphs/contributors">
-
-  <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
-
-
 
 ### 🟢 WhatsApp Group
 
