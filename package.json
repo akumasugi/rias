@@ -26,7 +26,7 @@
 
         "type": "git",
 
-        "url": "git+https://github.com/ShineiIchijo/Chitoge.git"
+        "url": "git+https://github.com/VaseemStarkJr3000/Rias-Gremory.git"
 
     },
 
@@ -42,7 +42,7 @@
 
     ],
 
-    "author": "Synthesized Infinity & Shinei Ichijo",
+    "author": "Synthesized Infinity & Vaseem Rias",
 
     "license": "AGPL-3.0",
 
@@ -52,7 +52,7 @@
 
     },
 
-    "homepage": "https://github.com/ShineiIchijo/Chitoge#readme",
+    "homepage": "https://github.com/VaseemStarkJr3000/Rias-Gremory#readme",
 
     "devDependencies": {
 
