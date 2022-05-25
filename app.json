@@ -11,8 +11,8 @@
     "whatsapp-sticker-bot",
     "whatsapp-botto"
   ],
-  "website": "https://github.com/VaseemStarkJr3000/Rias-Gremory#readme",
-  "repository": "https://github.com/VaseemStarkJr3000/Rias-Gremory.git",
+  "website": "https://github.com/akumasugi/rias#readme",
+  "repository": "https://github.com/akumasugi/rias.git",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFglBpqhgdxp7Lm4xiFoLOJQDndO_ncEvQX-P3zmQSkNhqhyC_p47vlw-M5dGscBdq6jY&usqp=CAU",
   "success_url": "/",
   "env": {
