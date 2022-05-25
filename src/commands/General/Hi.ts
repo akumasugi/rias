@@ -30,7 +30,7 @@ export default class Command extends BaseCommand {
 
 		const zerotwo =
 
-			"https://c.tenor.com/tkjZFMOLnmMAAAPo/anime-rias-gremory.mp4";
+			"https://c.tenor.com/w_vsQrD460kAAAPo/rias.mp4";
 
 		return void this.client.sendMessage(
 
