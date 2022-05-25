@@ -54,7 +54,7 @@ export default class Command extends BaseCommand {
 
 		const gifs = [
 
-			"https://c.tenor.com/giyqfACP9hMAAAPo/highschooldxd-rias.mp4",
+			"https://c.tenor.com/qqv22nf1cwgAAAPo/rias-gremory.mp4",
 
 		];
 
