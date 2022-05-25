@@ -34,7 +34,7 @@ export default class Command extends BaseCommand {
 
 		const well = 
 
-			"https://c.tenor.com/63woshESSMMAAAPo/high-school-dxd-rias-gremory.mp4";
+			"https://telegra.ph/file/016fed1081ffe48ca8ca8.mp4";
 
 		return void this.client.sendMessage(
 
@@ -52,7 +52,7 @@ export default class Command extends BaseCommand {
 
 				caption: `🪆𝐊𝐨𝐧𝐢𝐜𝐡𝐢𝐰𝐚!
 
-🍒ɪ'ᴍ ʀɪᴀꜱ-ɢʀᴇᴍᴏʀʏ ʙᴏᴛ.
+🍒ɪ'ᴍ ʀɪᴀꜱ-ɢʀᴇᴍᴏʀʏ.
 
 ❄ᴍʏ ᴘʀᴇꜰɪx ɪꜱ - " ${this.client.config.prefix} "
 
